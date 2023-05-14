@@ -1,12 +1,12 @@
 
 {
-    "version": "1.0",
+    "version": "0.14.6",
     "description": "Elixir language server",
     "homepage": "https://github.com/elixir-lsp/elixir-ls",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/v0.14.6/elixir-ls.zip"
+            "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/v$version/elixir-ls.zip"
         }
     },
     "bin": [
