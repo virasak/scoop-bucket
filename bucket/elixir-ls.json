@@ -9,5 +9,7 @@
             "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/v0.14.6/elixir-ls.zip"
         }
     },
-    "bin": "language_server"
+    "bin": [
+        ["language_server.bat", "elixir-ls"]
+    ]
 }
