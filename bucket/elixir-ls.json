@@ -11,5 +11,6 @@
     },
     "bin": [
         ["language_server.bat", "elixir-ls"]
-    ]
+    ],
+    "checkver": "github"
 }
