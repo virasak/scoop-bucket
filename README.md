@@ -19,3 +19,4 @@ Apps in this bucket
 -------------------
 
 - elixir-ls
+- nunit-extension-agoda-tests-metrics-nunit
