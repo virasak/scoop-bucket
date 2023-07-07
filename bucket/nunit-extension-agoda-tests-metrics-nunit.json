@@ -7,6 +7,7 @@
     "extract_dir": [
         "lib\\netstandard2.0",
         "lib\\netstandard2.0",
+        "lib\\netstandard2.0",
         "lib\\netstandard2.0"
     ],
     "url": [
