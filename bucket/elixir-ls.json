@@ -9,5 +9,7 @@
         ["language_server.bat", "elixir-ls"]
     ],
     "checkver": "github",
-    "autoupdate": "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/$version/elixir-ls.zip"
+    "autoupdate": {
+        "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/$version/elixir-ls.zip"
+    }
 }
