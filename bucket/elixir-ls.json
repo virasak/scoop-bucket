@@ -1,12 +1,14 @@
-
 {
-    "version": "0.14.6",
+    "version": "0.15.1",
     "description": "Elixir language server",
     "homepage": "https://github.com/elixir-lsp/elixir-ls",
     "license": "Apache-2.0",
-    "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/v0.14.6/elixir-ls.zip",
+    "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/0.15.1/elixir-ls.zip",
     "bin": [
-        ["language_server.bat", "elixir-ls"]
+        [
+            "language_server.bat",
+            "elixir-ls"
+        ]
     ],
     "checkver": "github",
     "autoupdate": {
