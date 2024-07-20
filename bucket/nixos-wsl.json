@@ -1,0 +1,17 @@
+
+{
+    "version": "2405.5.4",
+    "description": "NixOS WSL",
+    "homepage": "https://github.com/nix-community/NixOS-WSL",
+    "license": "Apache-2.0",
+    "url": "https://github.com/nix-community/NixOS-WSL/releases/download/v2405.5.4/NixOS-WSL-Launcher.zip",
+    "bin": [
+        [
+            "NixOS"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/nix-community/NixOS-WSL/releases/download/v$version/NixOS-WSL-Launcher.zip"
+    }
+}
